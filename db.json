@@ -1,7 +1,11 @@
 {
-  "id": "100",
-  "password": "100",
-  "name": "テストユーザー",
-  "address": "東京都渋谷区道玄坂1-1-1",
-  "email": "test@example.com"
+  "users": [
+    {
+      "id": "100",
+      "password": "100",
+      "name": "テストユーザー",
+      "address": "東京都渋谷区道玄坂1-1-1",
+      "email": "test@example.com"
+    }
+  ]
 }
